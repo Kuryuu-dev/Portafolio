@@ -16,15 +16,3 @@ function sendMessage() {
         message => alert(message)
     );
 }
-
-// function getName(){
-//     let name;
-//     name = document.getElementById('form_name');
-//     alert(name.value);
-// }
-
-// function getEmail(){
-//     let email;
-//     email = document.getElementById('form_email');
-//     alert(email.value);
-// }
